@@ -1,7 +1,4 @@
 Maria Javier
-mj2729
-hw3
-Design With C++
 
 Vector
 Contains make file, if you run make and then ./vector you should get the list and the number of seconds it took for deletion and insertion.
