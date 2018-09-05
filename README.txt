@@ -1,4 +1,5 @@
 Maria Javier
+This project explores sorting using vectors, map, lis, etc  in C++ with regards to how memory usage affects efficiency. 
 
 Vector
 Contains make file, if you run make and then ./vector you should get the list and the number of seconds it took for deletion and insertion.
